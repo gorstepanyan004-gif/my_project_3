@@ -1,4 +1,4 @@
-Multithreaded 60 FPS Engine (C++)
+                                                                              🔥Multithreaded 60 FPS Engine (C++)🔥
 A high-performance multithreaded C++ engine running at a stable 60 FPS, using worker threads for parallel tasks and SQLite database for frame-time logging.
 This project demonstrates real-world architecture with clean OOP, separated modules, threading, synchronization, and database integration — ideal for showcasing in a portfolio or resume.
 
